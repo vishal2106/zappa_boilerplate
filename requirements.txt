@@ -40,7 +40,7 @@ troposphere==2.6.1
 typed-ast==1.4.1
 Unidecode==1.1.1
 urllib3==1.25.9
-Werkzeug==0.12
+Werkzeug==0.15.3
 wrapt==1.12.1
 wsgi-request-logger==0.4.6
 zappa==0.45.1
