@@ -9,6 +9,7 @@ chardet==3.0.4
 click==7.1.2
 Django==2.1
 django-s3-storage==0.13.0
+dnspython==1.16.0
 docutils==0.15.2
 durationpy==0.5
 future==0.16.0
@@ -24,6 +25,8 @@ pkg-resources==0.0.0
 placebo==0.9.0
 psycopg2-binary==2.8.5
 pylint==2.5.2
+pymodm==0.4.3
+pymongo==3.10.1
 python-dateutil==2.6.1
 python-slugify==1.2.4
 pytz==2020.1
@@ -41,4 +44,3 @@ Werkzeug==0.12
 wrapt==1.12.1
 wsgi-request-logger==0.4.6
 zappa==0.45.1
-psycopg2
